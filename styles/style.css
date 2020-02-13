@@ -1,0 +1,24 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Open Sans', 'Helvetica', Arial, sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+.appTopper {
+  display: block;
+  padding: 20px 0 30px;
+  margin: 0 0 20px;
+  background-color: royalblue;
+  color: #ffffff;
+  text-align: center;
+}
+
+.centeredImage {
+  display: block;
+  margin: 0 auto;
+}
